@@ -1,0 +1,4 @@
+La différence qui existe entre une base de données relationnelle et une base de données non relationnelle est la façon de stocker. L’une stocke les données dans des tables tandis que l’autre les stockent au format clé-valeur de manière à stocker davantage en termes de quantité.
+
+Les avantages d'une base de données relationnel est la facon de l'interoger, on pourra de facon intuitive faire des recherches dans les tables de notre BDD.
+Les bases de données relationnelles sont basées sur un modèle de données relativement facile à mettre en œuvre et à gérer.Le modèle relationnel des bases de données fournit des règles précisément définies pour éviter la redondance, cela facilite la gestion et l’entretien des stocks de données, puisque les modifications ne doivent être effectuées qu’à un seul endroit.

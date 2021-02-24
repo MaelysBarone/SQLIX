@@ -1,0 +1,18 @@
+--BONUS--
+--1
+SELECT * FROM potion;
+--2
+SELECT * FROM categorie WHERE nb_points =3;
+--3
+SELECT * FROM village WHERE nb_huttes >35;
+--4
+SELECT(num_trophee) FROM trophee where date_prise BETWEEN' 2052-05-05 00:00:00' and' 2052-06-06 00:00:00';
+--5
+SELECT * FROM habitant WHERE nom LIKE 'a%r%';
+--6
+SELECT DISTINCT num_hab FROM absorber WHERE num_potion = 1 OR num_potion = 3 or num_potion=4;
+--7
+SELECT num_trophee,date_prise,code_cat,num_preneur FROM trophee;
+--8
+SELECT Nom FROM Habitant INNER JOIN Village ON Habitant.num_village=Village.num_village  WHERE nom_village='AQUILONA';
+--9

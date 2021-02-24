@@ -1,0 +1,3 @@
+--SAUVERGARDE--
+
+C:\wamp64\bin\mysql\mysql5.7.31\bin>mysqldump -u root -h localhost -p --databases sqlix > dump_sqlix.sql
