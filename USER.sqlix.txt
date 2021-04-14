@@ -2,4 +2,4 @@
 
 CREATE USER 'sqlix_u'@'localhost' IDENTIFIED BY 'xxxx';
 
-GRANT SELECT, UPDATE, INSERT ,DELETE ON * . * TO 'sqlix_u'@'localhost';
+GRANT SELECT, UPDATE, INSERT ,DELETE ON sqlix TO 'sqlix_u'@'localhost';
