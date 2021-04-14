@@ -47,7 +47,7 @@ INSERT INTO habitant(num_hab,nom,age,num_qualite,num_village) VALUES (5,'Assuran
 INSERT INTO habitant(num_hab,nom,age,num_qualite,num_village) VALUES (6,'Zérozérosix',75,2,4);
 INSERT INTO habitant(num_hab,nom,age,num_qualite,num_village) VALUES (7,'Astérix',35,4,1);
 INSERT INTO habitant(num_hab,nom,age,num_qualite,num_village) VALUES (8,'Bellodalix',32,4,7);
-INSERT INTO habitant(num_hab,nom,age,num_qualite,num_village) VALUES (9,Cétyounix,32,4,4);
+INSERT INTO habitant(num_hab,nom,age,num_qualite,num_village) VALUES (9,'Cétyounix',32,4,4);
 INSERT INTO habitant(num_hab,nom,age,num_qualite,num_village) VALUES (10,'Homéopatix',48,5,6);
 INSERT INTO habitant(num_hab,nom,age,num_qualite,num_village) VALUES (11,'Obélix',38,6,1);
 INSERT INTO habitant(num_hab,nom,age,num_qualite,num_village) VALUES (12,'Plantaquatix',30,5,5);
